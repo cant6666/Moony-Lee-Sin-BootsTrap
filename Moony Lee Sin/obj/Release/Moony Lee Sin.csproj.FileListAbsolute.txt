@@ -1,0 +1,23 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Moony Lee Sin\Moony Lee Sin\bin\Release\Moony Lee Sin.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Moony Lee Sin\Moony Lee Sin\bin\Release\Moony Lee Sin.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Moony Lee Sin\Moony Lee Sin\bin\Release\Moony Lee Sin.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Moony Lee Sin\Moony Lee Sin\bin\Release\EloBuddy.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Moony Lee Sin\Moony Lee Sin\bin\Release\EloBuddy.SDK.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Moony Lee Sin\Moony Lee Sin\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Moony Lee Sin\Moony Lee Sin\bin\Release\SharpDX.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Moony Lee Sin\Moony Lee Sin\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Moony Lee Sin\Moony Lee Sin\bin\Release\Newtonsoft.Json.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Moony Lee Sin\Moony Lee Sin\obj\Release\Moony Lee Sin.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Moony Lee Sin\Moony Lee Sin\obj\Release\Moony Lee Sin.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Moony Lee Sin BootsTrap\Moony Lee Sin\bin\Release\Moony Lee Sin.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Moony Lee Sin BootsTrap\Moony Lee Sin\bin\Release\Moony Lee Sin.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Moony Lee Sin BootsTrap\Moony Lee Sin\bin\Release\Moony Lee Sin.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Moony Lee Sin BootsTrap\Moony Lee Sin\bin\Release\EloBuddy.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Moony Lee Sin BootsTrap\Moony Lee Sin\bin\Release\EloBuddy.SDK.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Moony Lee Sin BootsTrap\Moony Lee Sin\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Moony Lee Sin BootsTrap\Moony Lee Sin\bin\Release\SharpDX.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Moony Lee Sin BootsTrap\Moony Lee Sin\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Moony Lee Sin BootsTrap\Moony Lee Sin\bin\Release\Newtonsoft.Json.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Moony Lee Sin BootsTrap\Moony Lee Sin\obj\Release\Moony Lee Sin.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Moony Lee Sin BootsTrap\Moony Lee Sin\obj\Release\Moony Lee Sin.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Moony Lee Sin BootsTrap\Moony Lee Sin\obj\Release\Moony Lee Sin.csprojResolveAssemblyReference.cache
