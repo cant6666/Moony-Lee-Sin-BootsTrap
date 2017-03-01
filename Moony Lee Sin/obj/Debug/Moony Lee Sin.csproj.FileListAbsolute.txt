@@ -20,3 +20,4 @@ C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Moony Lee Sin BootsTrap\Mo
 C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Moony Lee Sin BootsTrap\Moony Lee Sin\bin\Debug\SharpDX.dll
 C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Moony Lee Sin BootsTrap\Moony Lee Sin\bin\Debug\EloBuddy.Sandbox.dll
 C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Moony Lee Sin BootsTrap\Moony Lee Sin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Moony Lee Sin BootsTrap\Moony Lee Sin\obj\Debug\Moony Lee Sin.csprojResolveAssemblyReference.cache

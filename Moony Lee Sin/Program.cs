@@ -28,7 +28,7 @@ namespace Moony_Lee_Sin
             return version;
         }
 
-        private static string dllPath = @"C:\Users\" + Environment.UserName + @"\AppData\Roaming\EloBuddy\Addons\Libraries\MLS.dll";
+        private static string dllPath => GetDllPath;
         static void Main(string[] args)
         {
             Loading.OnLoadingComplete += eventArgs =>
@@ -68,6 +68,52 @@ namespace Moony_Lee_Sin
             };
         }
 
+        static string GetDllPath
+        {
+            get
+            {
+                string s = @":\Users\" + Environment.UserName + @"\AppData\Roaming\EloBuddy";
+                string[] hardDiskLetters = new[]
+                {
+                    "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U",
+                    "V", "W", "X", "Y", "Z"
+                };
+
+                foreach (var letter in hardDiskLetters)
+                {
+                    string path = letter + s;
+                    if (Directory.Exists(path))
+                        return path + @"\Addons\Libraries\MLS.dll";
+                }
+
+                Chat.Print("<b><font size='20' color='#FF0000'>[Moony Lee Sin] Elobuddy Path Not Found! Contact DanThePman</font></b>");
+                return string.Empty;
+            }
+        }
+
+        static string GetElobuddyPath
+        {
+            get
+            {
+                string s = @":\Users\" + Environment.UserName + @"\AppData\Roaming\EloBuddy\";
+                string[] hardDiskLetters = new[]
+                {
+                    "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U",
+                    "V", "W", "X", "Y", "Z"
+                };
+
+                foreach (var letter in hardDiskLetters)
+                {
+                    string path = letter + s;
+                    if (Directory.Exists(path))
+                        return path;
+                }
+
+                Chat.Print("<b><font size='20' color='#FF0000'>[Moony Lee Sin] Elobuddy Path 2 Not Found! Contact DanThePman</font></b>");
+                return string.Empty;
+            }
+        }
+
         private static void Download()
         {
             Chat.Print("<b><font size='20' color='#008B8B'>[Moony Lee Sin] Downloading Core...</font></b>");
@@ -78,7 +124,7 @@ namespace Moony_Lee_Sin
             Chat.Print("<b><font size='20' color='#008B8B'>[Moony Lee Sin] Download Completed!</font></b>");
         }
 
-        static string updateReminderPath = @"C:\Users\" + Environment.UserName + @"\AppData\Roaming\EloBuddy\MLS_UPDATE_PENDING.txt";
+        static string updateReminderPath = GetElobuddyPath + "MLS_UPDATE_PENDING.txt";
         private static void CreateUpdateReminder()
         {
             new StreamWriter(updateReminderPath).Close();
